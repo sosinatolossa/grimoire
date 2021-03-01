@@ -1,0 +1,16 @@
+C:\Users\16157\workspace\grimoire\csharp\bin\Debug\net5.0\Grimoire.exe
+C:\Users\16157\workspace\grimoire\csharp\bin\Debug\net5.0\Grimoire.deps.json
+C:\Users\16157\workspace\grimoire\csharp\bin\Debug\net5.0\Grimoire.runtimeconfig.json
+C:\Users\16157\workspace\grimoire\csharp\bin\Debug\net5.0\Grimoire.runtimeconfig.dev.json
+C:\Users\16157\workspace\grimoire\csharp\bin\Debug\net5.0\Grimoire.dll
+C:\Users\16157\workspace\grimoire\csharp\bin\Debug\net5.0\ref\Grimoire.dll
+C:\Users\16157\workspace\grimoire\csharp\bin\Debug\net5.0\Grimoire.pdb
+C:\Users\16157\workspace\grimoire\csharp\obj\Debug\net5.0\Grimoire.csprojAssemblyReference.cache
+C:\Users\16157\workspace\grimoire\csharp\obj\Debug\net5.0\Grimoire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16157\workspace\grimoire\csharp\obj\Debug\net5.0\Grimoire.AssemblyInfoInputs.cache
+C:\Users\16157\workspace\grimoire\csharp\obj\Debug\net5.0\Grimoire.AssemblyInfo.cs
+C:\Users\16157\workspace\grimoire\csharp\obj\Debug\net5.0\Grimoire.csproj.CoreCompileInputs.cache
+C:\Users\16157\workspace\grimoire\csharp\obj\Debug\net5.0\Grimoire.dll
+C:\Users\16157\workspace\grimoire\csharp\obj\Debug\net5.0\ref\Grimoire.dll
+C:\Users\16157\workspace\grimoire\csharp\obj\Debug\net5.0\Grimoire.pdb
+C:\Users\16157\workspace\grimoire\csharp\obj\Debug\net5.0\Grimoire.genruntimeconfig.cache
